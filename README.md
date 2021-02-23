@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @berest915
 - 👀 I’m interested in ... React Frontend Development
-- 🌱 I’m currently learning Reactjs of course..., consider to be extended with react native, server-side..api..db.., nextjs, aws, etc..
-- 💞️ I’m looking to collaborate on ... [hmm ?,,]
+- 🌱 I’m currently learning Reactjs of course..., considering to be extended with react native, server-side..api..db.., nextjs, aws, etc..
 - 📫 How to reach me ... via berest915@gmail.com
 
 <!---
